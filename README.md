@@ -1,7 +1,9 @@
 # NeBULA
+
 A novel drug design tool via bioisosteric replacement
 
 🔗 Online tool: [http://nebula.alphamol.com.cn:5001/](http://nebula.alphamol.com.cn:5001/)
+
 ![image](https://github.com/xinh03/NeBULA/blob/main/Figure_github.png)
 
 <h2>Requirements</h2>
