@@ -1,6 +1,8 @@
 # NeBULA
 
-A novel drug design tool via bioisosteric replacement
+(Next-Generation Bioisostere Utility Libraries)
+
+A web-based novel drug design platform for up-to-date bioisosteric replacement
 
 🔗 Online tool: [http://nebula.alphamol.com.cn:5001/](http://nebula.alphamol.com.cn:5001/)
 
