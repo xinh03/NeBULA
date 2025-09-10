@@ -8,9 +8,7 @@ A novel drug design tool via bioisosteric replacement
 
 <h2>Requirements</h2>
 <pre><code>conda create -n nebula python=3.9
-pip install numpy==1.21.6
-pip install rdkit==2022.3.5
-pip install pandas</code></pre>
+pip install rdkit==2022.3.5 pandas numpy==1.22.4</code></pre>
 <p>Note: you can use -- pip install "numpy<2.0" -- for more compatible version</p>
 
 <h2>Folder format</h2>
