@@ -40,3 +40,8 @@ cd nebula
 <pre><code>--%Y%m%d_%H%M%S
     --reaction_products.csv</code></pre>
 
+<h3>3. Bioisosteric replacement for batch input</h3>
+<pre><code>python reaction.py --input_csv molecules.csv</code></pre>
+<p>You need to make sure the <em>molecules.csv</em> file has SMILES header </p>
+
+
